@@ -1,5 +1,5 @@
 # index.html
-This is a display of sample websites I made using HTML and CSS.
+This is a display of sample websites I made using HTML and CSS
 
 Projects:
 
